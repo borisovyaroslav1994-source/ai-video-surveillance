@@ -1,0 +1,4 @@
+﻿run,mode,source,device,duration_s,source_reported_fps,width,height,frames_read,failed_reads,capture_or_pipeline_fps,mean_track_call_ms,median_track_call_ms,detections_total,distinct_track_ids_observed,rss_start_mb,rss_end_mb
+1,track,0,cuda:0,60.033,30.0,640,480,929,0,15.47,53.35,42.26,929,1,1391.45,1318.52
+2,track,0,cuda:0,60.036,30.0,640,480,1641,0,27.33,21.96,17.96,1641,1,1339.08,1111.12
+3,track,0,cuda:0,60.044,30.0,640,480,1106,0,18.42,43.23,42.58,1106,1,1112.26,822.86

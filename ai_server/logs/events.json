@@ -1,0 +1,3041 @@
+[
+    {
+        "time": "2026-07-26 11:54:18",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_0.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:18",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_1.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:18",
+        "object": "person",
+        "confidence": 0.95,
+        "image": "events/person_2.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:19",
+        "object": "person",
+        "confidence": 0.95,
+        "image": "events/person_3.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:19",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_4.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:19",
+        "object": "person",
+        "confidence": 0.64,
+        "image": "events/person_5.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:19",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_6.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:19",
+        "object": "person",
+        "confidence": 0.68,
+        "image": "events/person_7.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:19",
+        "object": "person",
+        "confidence": 0.92,
+        "image": "events/person_8.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:19",
+        "object": "person",
+        "confidence": 0.75,
+        "image": "events/person_9.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:19",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_10.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:19",
+        "object": "person",
+        "confidence": 0.83,
+        "image": "events/person_11.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:19",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_12.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:19",
+        "object": "person",
+        "confidence": 0.84,
+        "image": "events/person_13.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:19",
+        "object": "person",
+        "confidence": 0.74,
+        "image": "events/person_14.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:19",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_15.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:19",
+        "object": "person",
+        "confidence": 0.84,
+        "image": "events/person_16.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:19",
+        "object": "person",
+        "confidence": 0.7,
+        "image": "events/person_17.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:19",
+        "object": "person",
+        "confidence": 0.92,
+        "image": "events/person_18.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:19",
+        "object": "person",
+        "confidence": 0.84,
+        "image": "events/person_19.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:19",
+        "object": "person",
+        "confidence": 0.9,
+        "image": "events/person_20.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:19",
+        "object": "person",
+        "confidence": 0.75,
+        "image": "events/person_21.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:19",
+        "object": "person",
+        "confidence": 0.89,
+        "image": "events/person_22.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:19",
+        "object": "person",
+        "confidence": 0.77,
+        "image": "events/person_23.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:19",
+        "object": "person",
+        "confidence": 0.91,
+        "image": "events/person_24.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:19",
+        "object": "person",
+        "confidence": 0.83,
+        "image": "events/person_25.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:19",
+        "object": "person",
+        "confidence": 0.92,
+        "image": "events/person_26.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:19",
+        "object": "person",
+        "confidence": 0.85,
+        "image": "events/person_27.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:20",
+        "object": "person",
+        "confidence": 0.91,
+        "image": "events/person_28.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:20",
+        "object": "person",
+        "confidence": 0.83,
+        "image": "events/person_29.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:20",
+        "object": "person",
+        "confidence": 0.91,
+        "image": "events/person_30.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:20",
+        "object": "person",
+        "confidence": 0.84,
+        "image": "events/person_31.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:20",
+        "object": "person",
+        "confidence": 0.91,
+        "image": "events/person_32.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:20",
+        "object": "person",
+        "confidence": 0.81,
+        "image": "events/person_33.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:20",
+        "object": "person",
+        "confidence": 0.9,
+        "image": "events/person_34.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:20",
+        "object": "person",
+        "confidence": 0.8,
+        "image": "events/person_35.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:20",
+        "object": "person",
+        "confidence": 0.91,
+        "image": "events/person_36.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:20",
+        "object": "person",
+        "confidence": 0.81,
+        "image": "events/person_37.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:20",
+        "object": "person",
+        "confidence": 0.91,
+        "image": "events/person_38.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:20",
+        "object": "person",
+        "confidence": 0.8,
+        "image": "events/person_39.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:20",
+        "object": "person",
+        "confidence": 0.92,
+        "image": "events/person_40.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:20",
+        "object": "person",
+        "confidence": 0.77,
+        "image": "events/person_41.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:20",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_42.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:20",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_43.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:20",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_44.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:20",
+        "object": "person",
+        "confidence": 0.92,
+        "image": "events/person_45.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:20",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_46.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:20",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_47.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:21",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_48.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:21",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_49.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:21",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_50.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:21",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_51.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:21",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_52.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:21",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_53.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:21",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_54.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:21",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_55.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:21",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_56.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:21",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_57.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:21",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_58.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:21",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_59.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:22",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_60.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:22",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_61.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:22",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_62.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:22",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_63.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:22",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_64.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:22",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_65.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:22",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_66.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:22",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_67.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:22",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_68.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:22",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_69.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:22",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_70.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:22",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_71.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:22",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_72.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:23",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_73.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:23",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_74.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:23",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_75.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:23",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_76.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:23",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_77.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:23",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_78.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:23",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_79.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:23",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_80.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:23",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_81.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:23",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_82.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:23",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_83.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:24",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_84.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:24",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_85.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:24",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_86.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:24",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_87.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:24",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_88.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:24",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_89.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:24",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_90.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:24",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_91.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:24",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_92.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:24",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_93.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:24",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_94.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:24",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_95.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:25",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_96.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:25",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_97.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:25",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_98.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:25",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_99.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:25",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_100.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:25",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_101.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:25",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_102.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:25",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_103.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:25",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_104.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:25",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_105.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:25",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_106.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:25",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_107.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:26",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_108.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:26",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_109.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:26",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_110.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:26",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_111.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:26",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_112.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:26",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_113.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:26",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_114.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:26",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_115.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:26",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_116.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:26",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_117.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:26",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_118.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:26",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_119.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:27",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_120.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:27",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_121.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:27",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_122.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:27",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_123.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:27",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_124.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:27",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_125.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:27",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_126.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:27",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_127.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:27",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_128.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:27",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_129.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:28",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_130.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:28",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_131.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:28",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_132.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:28",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_133.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:28",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_134.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:28",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_135.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:28",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_136.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:28",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_137.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:28",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_138.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:28",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_139.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:28",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_140.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:29",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_141.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:29",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_142.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:29",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_143.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:29",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_144.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:29",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_145.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:29",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_146.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:29",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_147.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:29",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_148.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:29",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_149.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:29",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_150.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:29",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_151.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:30",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_152.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:30",
+        "object": "person",
+        "confidence": 0.92,
+        "image": "events/person_153.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:30",
+        "object": "person",
+        "confidence": 0.92,
+        "image": "events/person_154.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:30",
+        "object": "person",
+        "confidence": 0.9,
+        "image": "events/person_155.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:30",
+        "object": "person",
+        "confidence": 0.89,
+        "image": "events/person_156.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:30",
+        "object": "person",
+        "confidence": 0.88,
+        "image": "events/person_157.jpg"
+    },
+    {
+        "time": "2026-07-26 11:54:30",
+        "object": "person",
+        "confidence": 0.91,
+        "image": "events/person_158.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:18",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_0.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:18",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_1.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:19",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_2.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:19",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_3.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:19",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_4.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:19",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_5.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:19",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_6.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:19",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_7.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:19",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_8.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:19",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_9.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:19",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_10.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:19",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_11.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:19",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_12.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:19",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_13.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:20",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_14.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:20",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_15.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:20",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_16.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:20",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_17.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:20",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_18.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:20",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_19.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:20",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_20.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:20",
+        "object": "person",
+        "confidence": 0.95,
+        "image": "events/person_21.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:20",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_22.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:20",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_23.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:20",
+        "object": "person",
+        "confidence": 0.95,
+        "image": "events/person_24.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:21",
+        "object": "person",
+        "confidence": 0.95,
+        "image": "events/person_25.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:21",
+        "object": "person",
+        "confidence": 0.95,
+        "image": "events/person_26.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:21",
+        "object": "person",
+        "confidence": 0.95,
+        "image": "events/person_27.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:21",
+        "object": "person",
+        "confidence": 0.95,
+        "image": "events/person_28.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:21",
+        "object": "person",
+        "confidence": 0.95,
+        "image": "events/person_29.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:21",
+        "object": "person",
+        "confidence": 0.95,
+        "image": "events/person_30.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:21",
+        "object": "person",
+        "confidence": 0.95,
+        "image": "events/person_31.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:21",
+        "object": "person",
+        "confidence": 0.95,
+        "image": "events/person_32.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:21",
+        "object": "person",
+        "confidence": 0.95,
+        "image": "events/person_33.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:21",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_34.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:21",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_35.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:22",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_36.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:22",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_37.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:22",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_38.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:22",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_39.jpg"
+    },
+    {
+        "time": "2026-07-26 11:58:22",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_40.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:29",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_0.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:30",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_1.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:30",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_2.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:30",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_3.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:30",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_4.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:30",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_5.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:30",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_6.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:30",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_7.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:30",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_8.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:30",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_9.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:30",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_10.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:30",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_11.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:31",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_12.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:31",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_13.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:31",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_14.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:31",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_15.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:31",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_16.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:31",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_17.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:31",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_18.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:31",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_19.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:31",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_20.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:31",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_21.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:31",
+        "object": "person",
+        "confidence": 0.92,
+        "image": "events/person_22.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:31",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_23.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:32",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_24.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:32",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_25.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:32",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_26.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:32",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_27.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:32",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_28.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:32",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_29.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:32",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_30.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:32",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_31.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:32",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_32.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:32",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_33.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:32",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_34.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:32",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_35.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:33",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_36.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:33",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_37.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:33",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_38.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:33",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_39.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:33",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_40.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:33",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_41.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:33",
+        "object": "person",
+        "confidence": 0.95,
+        "image": "events/person_42.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:33",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_43.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:33",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_44.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:33",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_45.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:33",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_46.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:33",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_47.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:34",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_48.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:34",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_49.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:34",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_50.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:34",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_51.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:34",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_52.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:34",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_53.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:34",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_54.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:34",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_55.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:34",
+        "object": "person",
+        "confidence": 0.92,
+        "image": "events/person_56.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:34",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_57.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:34",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_58.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:34",
+        "object": "person",
+        "confidence": 0.92,
+        "image": "events/person_59.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:34",
+        "object": "person",
+        "confidence": 0.92,
+        "image": "events/person_60.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:35",
+        "object": "person",
+        "confidence": 0.92,
+        "image": "events/person_61.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:35",
+        "object": "person",
+        "confidence": 0.92,
+        "image": "events/person_62.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:35",
+        "object": "person",
+        "confidence": 0.92,
+        "image": "events/person_63.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:35",
+        "object": "person",
+        "confidence": 0.92,
+        "image": "events/person_64.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:35",
+        "object": "person",
+        "confidence": 0.92,
+        "image": "events/person_65.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:35",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_66.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:35",
+        "object": "person",
+        "confidence": 0.92,
+        "image": "events/person_67.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:35",
+        "object": "person",
+        "confidence": 0.92,
+        "image": "events/person_68.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:35",
+        "object": "person",
+        "confidence": 0.92,
+        "image": "events/person_69.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:35",
+        "object": "person",
+        "confidence": 0.91,
+        "image": "events/person_70.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:35",
+        "object": "person",
+        "confidence": 0.92,
+        "image": "events/person_71.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:35",
+        "object": "person",
+        "confidence": 0.92,
+        "image": "events/person_72.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:36",
+        "object": "person",
+        "confidence": 0.92,
+        "image": "events/person_73.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:36",
+        "object": "person",
+        "confidence": 0.92,
+        "image": "events/person_74.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:36",
+        "object": "person",
+        "confidence": 0.92,
+        "image": "events/person_75.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:36",
+        "object": "person",
+        "confidence": 0.92,
+        "image": "events/person_76.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:36",
+        "object": "person",
+        "confidence": 0.92,
+        "image": "events/person_77.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:36",
+        "object": "person",
+        "confidence": 0.92,
+        "image": "events/person_78.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:36",
+        "object": "person",
+        "confidence": 0.92,
+        "image": "events/person_79.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:36",
+        "object": "person",
+        "confidence": 0.92,
+        "image": "events/person_80.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:36",
+        "object": "person",
+        "confidence": 0.92,
+        "image": "events/person_81.jpg"
+    },
+    {
+        "time": "2026-07-26 11:59:36",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_82.jpg"
+    },
+    {
+        "time": "2026-07-26 12:08:47",
+        "object": "person",
+        "confidence": 0.93,
+        "image": "events/person_0.jpg"
+    },
+    {
+        "time": "2026-07-26 12:08:57",
+        "object": "person",
+        "confidence": 0.65,
+        "image": "events/person_1.jpg"
+    },
+    {
+        "time": "2026-07-26 12:08:57",
+        "object": "person",
+        "confidence": 0.84,
+        "image": "events/person_2.jpg"
+    },
+    {
+        "time": "2026-07-26 12:08:59",
+        "object": "person",
+        "confidence": 0.62,
+        "image": "events/person_3.jpg"
+    },
+    {
+        "time": "2026-07-26 12:08:59",
+        "object": "person",
+        "confidence": 0.75,
+        "image": "events/person_4.jpg"
+    },
+    {
+        "time": "2026-07-26 12:09:05",
+        "object": "person",
+        "confidence": 0.68,
+        "image": "events/person_5.jpg"
+    },
+    {
+        "time": "2026-07-26 12:12:46",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_ID_1.jpg"
+    },
+    {
+        "time": "2026-07-26 12:14:28",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_ID_1.jpg"
+    },
+    {
+        "time": "2026-07-26 12:15:00",
+        "object": "person",
+        "confidence": 0.75,
+        "image": "events/person_ID_7.jpg"
+    },
+    {
+        "time": "2026-07-26 12:15:07",
+        "object": "person",
+        "confidence": 0.66,
+        "image": "events/person_ID_7.jpg"
+    },
+    {
+        "time": "2026-07-26 12:24:56",
+        "object": "person",
+        "confidence": 0.94,
+        "image": "events/person_ID_1.jpg"
+    },
+    {
+        "time": "2026-07-26 17:28:40",
+        "object": "person",
+        "confidence": 0.95,
+        "image": "events/person_ID_1.jpg"
+    },
+    {
+        "time": "2026-07-26 17:29:16",
+        "object": "person",
+        "confidence": 0.79,
+        "image": "events/person_ID_1.jpg"
+    },
+    {
+        "time": "2026-07-26 17:29:18",
+        "object": "person",
+        "confidence": 0.92,
+        "image": "events/person_ID_1.jpg"
+    },
+    {
+        "time": "2026-07-26 17:30:02",
+        "object": "person",
+        "confidence": 0.92,
+        "image": "events/person_ID_1.jpg"
+    },
+    {
+        "id": 1,
+        "camera": "USB_CAMERA_01",
+        "object": "person",
+        "confidence": 0.95,
+        "bbox": {
+            "x1": 0,
+            "y1": 60,
+            "x2": 452,
+            "y2": 478
+        },
+        "image": "events/person_ID_1.jpg",
+        "status": "active",
+        "time": "2026-07-26 17:32:28"
+    },
+    {
+        "id": 5,
+        "camera": "USB_CAMERA_01",
+        "object": "person",
+        "confidence": 0.63,
+        "bbox": {
+            "x1": 284,
+            "y1": 299,
+            "x2": 361,
+            "y2": 451
+        },
+        "image": "events/person_ID_5.jpg",
+        "status": "active",
+        "time": "2026-07-26 17:33:09"
+    },
+    {
+        "id": 5,
+        "camera": "USB_CAMERA_01",
+        "object": "person",
+        "confidence": 0.62,
+        "bbox": {
+            "x1": 278,
+            "y1": 300,
+            "x2": 369,
+            "y2": 477
+        },
+        "image": "events/person_ID_5.jpg",
+        "status": "active",
+        "time": "2026-07-26 17:33:09"
+    },
+    {
+        "id": 5,
+        "camera": "USB_CAMERA_01",
+        "object": "person",
+        "confidence": 0.66,
+        "bbox": {
+            "x1": 286,
+            "y1": 300,
+            "x2": 378,
+            "y2": 480
+        },
+        "image": "events/person_ID_5.jpg",
+        "status": "active",
+        "time": "2026-07-26 17:33:10"
+    },
+    {
+        "id": 1,
+        "camera": "USB_CAMERA_01",
+        "object": "person",
+        "confidence": 0.94,
+        "bbox": {
+            "x1": 0,
+            "y1": 72,
+            "x2": 458,
+            "y2": 479
+        },
+        "image": "events/person_ID_1.jpg",
+        "status": "active",
+        "time": "2026-07-26 17:38:18"
+    },
+    {
+        "id": 1,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.93,
+        "bbox": {
+            "x1": 42,
+            "y1": 94,
+            "x2": 527,
+            "y2": 479
+        },
+        "image": "events/camera_1_person_ID_1.jpg",
+        "status": "active",
+        "time": "2026-07-26 17:58:25"
+    },
+    {
+        "id": 1,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.93,
+        "bbox": {
+            "x1": 42,
+            "y1": 96,
+            "x2": 505,
+            "y2": 479
+        },
+        "image": "events/camera_1_person_1.jpg",
+        "status": "active",
+        "time": "2026-07-26 18:04:06"
+    },
+    {
+        "id": 1,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.91,
+        "bbox": {
+            "x1": 44,
+            "y1": 81,
+            "x2": 505,
+            "y2": 479
+        },
+        "image": "events/camera_1_person_1.jpg",
+        "status": "active",
+        "time": "2026-07-26 18:07:53"
+    },
+    {
+        "id": 1,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.91,
+        "bbox": {
+            "x1": 24,
+            "y1": 194,
+            "x2": 452,
+            "y2": 479
+        },
+        "image": "events/camera_1_person_1.jpg",
+        "status": "active",
+        "time": "2026-07-29 18:21:44"
+    },
+    {
+        "id": 2,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.88,
+        "bbox": {
+            "x1": 333,
+            "y1": 162,
+            "x2": 568,
+            "y2": 479
+        },
+        "image": "events/camera_1_person_2.jpg",
+        "status": "active",
+        "time": "2026-07-29 18:21:44"
+    },
+    {
+        "id": 1,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.71,
+        "bbox": {
+            "x1": 25,
+            "y1": 235,
+            "x2": 340,
+            "y2": 479
+        },
+        "image": "events/camera_1_person_1.jpg",
+        "status": "active",
+        "time": "2026-07-29 18:21:57"
+    },
+    {
+        "id": 9,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.76,
+        "bbox": {
+            "x1": 80,
+            "y1": 262,
+            "x2": 153,
+            "y2": 374
+        },
+        "image": "events/camera_1_person_9.jpg",
+        "status": "active",
+        "time": "2026-07-29 18:22:45"
+    },
+    {
+        "id": 12,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.83,
+        "bbox": {
+            "x1": 290,
+            "y1": 363,
+            "x2": 405,
+            "y2": 473
+        },
+        "image": "events/camera_1_person_12.jpg",
+        "status": "active",
+        "time": "2026-07-29 18:22:50"
+    },
+    {
+        "id": 12,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.7,
+        "bbox": {
+            "x1": 294,
+            "y1": 365,
+            "x2": 375,
+            "y2": 447
+        },
+        "image": "events/camera_1_person_12.jpg",
+        "status": "active",
+        "time": "2026-07-29 18:22:51"
+    },
+    {
+        "id": 12,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.66,
+        "bbox": {
+            "x1": 279,
+            "y1": 368,
+            "x2": 348,
+            "y2": 441
+        },
+        "image": "events/camera_1_person_12.jpg",
+        "status": "active",
+        "time": "2026-07-29 18:22:52"
+    },
+    {
+        "id": 14,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.92,
+        "bbox": {
+            "x1": 264,
+            "y1": 185,
+            "x2": 454,
+            "y2": 479
+        },
+        "image": "events/camera_1_person_14.jpg",
+        "status": "active",
+        "time": "2026-07-29 18:22:57"
+    },
+    {
+        "id": 1,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.94,
+        "bbox": {
+            "x1": 0,
+            "y1": 162,
+            "x2": 309,
+            "y2": 479
+        },
+        "image": "events/camera_1_person_1.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:18:25"
+    },
+    {
+        "id": 2,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.71,
+        "bbox": {
+            "x1": 296,
+            "y1": 323,
+            "x2": 412,
+            "y2": 479
+        },
+        "image": "events/camera_1_person_2.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:18:25"
+    },
+    {
+        "id": 2,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.85,
+        "bbox": {
+            "x1": 273,
+            "y1": 328,
+            "x2": 393,
+            "y2": 479
+        },
+        "image": "events/camera_1_person_2.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:18:27"
+    },
+    {
+        "id": 4,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.73,
+        "bbox": {
+            "x1": 362,
+            "y1": 326,
+            "x2": 421,
+            "y2": 477
+        },
+        "image": "events/camera_1_person_4.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:18:28"
+    },
+    {
+        "id": 4,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.6,
+        "bbox": {
+            "x1": 360,
+            "y1": 325,
+            "x2": 421,
+            "y2": 478
+        },
+        "image": "events/camera_1_person_4.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:18:29"
+    },
+    {
+        "id": 4,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.64,
+        "bbox": {
+            "x1": 368,
+            "y1": 326,
+            "x2": 423,
+            "y2": 476
+        },
+        "image": "events/camera_1_person_4.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:18:30"
+    },
+    {
+        "id": 4,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.63,
+        "bbox": {
+            "x1": 368,
+            "y1": 326,
+            "x2": 423,
+            "y2": 477
+        },
+        "image": "events/camera_1_person_4.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:18:31"
+    },
+    {
+        "id": 4,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.6,
+        "bbox": {
+            "x1": 369,
+            "y1": 325,
+            "x2": 422,
+            "y2": 473
+        },
+        "image": "events/camera_1_person_4.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:18:31"
+    },
+    {
+        "id": 4,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.64,
+        "bbox": {
+            "x1": 368,
+            "y1": 325,
+            "x2": 423,
+            "y2": 477
+        },
+        "image": "events/camera_1_person_4.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:18:32"
+    },
+    {
+        "id": 4,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.64,
+        "bbox": {
+            "x1": 368,
+            "y1": 326,
+            "x2": 424,
+            "y2": 478
+        },
+        "image": "events/camera_1_person_4.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:18:33"
+    },
+    {
+        "id": 4,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.62,
+        "bbox": {
+            "x1": 362,
+            "y1": 326,
+            "x2": 420,
+            "y2": 474
+        },
+        "image": "events/camera_1_person_4.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:18:36"
+    },
+    {
+        "id": 4,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.7,
+        "bbox": {
+            "x1": 361,
+            "y1": 325,
+            "x2": 421,
+            "y2": 478
+        },
+        "image": "events/camera_1_person_4.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:18:36"
+    },
+    {
+        "id": 4,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.61,
+        "bbox": {
+            "x1": 361,
+            "y1": 326,
+            "x2": 421,
+            "y2": 477
+        },
+        "image": "events/camera_1_person_4.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:18:37"
+    },
+    {
+        "id": 4,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.66,
+        "bbox": {
+            "x1": 365,
+            "y1": 326,
+            "x2": 425,
+            "y2": 478
+        },
+        "image": "events/camera_1_person_4.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:18:38"
+    },
+    {
+        "id": 4,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.65,
+        "bbox": {
+            "x1": 367,
+            "y1": 326,
+            "x2": 423,
+            "y2": 476
+        },
+        "image": "events/camera_1_person_4.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:18:39"
+    },
+    {
+        "id": 4,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.67,
+        "bbox": {
+            "x1": 368,
+            "y1": 326,
+            "x2": 423,
+            "y2": 477
+        },
+        "image": "events/camera_1_person_4.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:18:40"
+    },
+    {
+        "id": 4,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.6,
+        "bbox": {
+            "x1": 369,
+            "y1": 320,
+            "x2": 413,
+            "y2": 430
+        },
+        "image": "events/camera_1_person_4.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:18:44"
+    },
+    {
+        "id": 4,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.61,
+        "bbox": {
+            "x1": 361,
+            "y1": 320,
+            "x2": 421,
+            "y2": 470
+        },
+        "image": "events/camera_1_person_4.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:18:44"
+    },
+    {
+        "id": 4,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.71,
+        "bbox": {
+            "x1": 369,
+            "y1": 296,
+            "x2": 422,
+            "y2": 429
+        },
+        "image": "events/camera_1_person_4.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:18:45"
+    },
+    {
+        "id": 6,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.69,
+        "bbox": {
+            "x1": 278,
+            "y1": 282,
+            "x2": 333,
+            "y2": 386
+        },
+        "image": "events/camera_1_person_6.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:18:48"
+    },
+    {
+        "id": 7,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.65,
+        "bbox": {
+            "x1": 367,
+            "y1": 324,
+            "x2": 422,
+            "y2": 478
+        },
+        "image": "events/camera_1_person_7.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:18:51"
+    },
+    {
+        "id": 6,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.76,
+        "bbox": {
+            "x1": 270,
+            "y1": 282,
+            "x2": 326,
+            "y2": 388
+        },
+        "image": "events/camera_1_person_6.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:18:53"
+    },
+    {
+        "id": 7,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.64,
+        "bbox": {
+            "x1": 362,
+            "y1": 254,
+            "x2": 432,
+            "y2": 426
+        },
+        "image": "events/camera_1_person_7.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:18:56"
+    },
+    {
+        "id": 6,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.67,
+        "bbox": {
+            "x1": 290,
+            "y1": 243,
+            "x2": 372,
+            "y2": 382
+        },
+        "image": "events/camera_1_person_6.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:18:57"
+    },
+    {
+        "id": 7,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.62,
+        "bbox": {
+            "x1": 360,
+            "y1": 305,
+            "x2": 421,
+            "y2": 449
+        },
+        "image": "events/camera_1_person_7.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:18:57"
+    },
+    {
+        "id": 6,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.8,
+        "bbox": {
+            "x1": 204,
+            "y1": 276,
+            "x2": 277,
+            "y2": 392
+        },
+        "image": "events/camera_1_person_6.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:18:59"
+    },
+    {
+        "id": 6,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.69,
+        "bbox": {
+            "x1": 228,
+            "y1": 305,
+            "x2": 282,
+            "y2": 386
+        },
+        "image": "events/camera_1_person_6.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:19:01"
+    },
+    {
+        "id": 6,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.67,
+        "bbox": {
+            "x1": 238,
+            "y1": 322,
+            "x2": 285,
+            "y2": 387
+        },
+        "image": "events/camera_1_person_6.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:19:02"
+    },
+    {
+        "id": 7,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.68,
+        "bbox": {
+            "x1": 359,
+            "y1": 320,
+            "x2": 429,
+            "y2": 476
+        },
+        "image": "events/camera_1_person_7.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:19:06"
+    },
+    {
+        "id": 7,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.67,
+        "bbox": {
+            "x1": 360,
+            "y1": 320,
+            "x2": 420,
+            "y2": 469
+        },
+        "image": "events/camera_1_person_7.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:19:08"
+    },
+    {
+        "id": 7,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.7,
+        "bbox": {
+            "x1": 363,
+            "y1": 319,
+            "x2": 426,
+            "y2": 479
+        },
+        "image": "events/camera_1_person_7.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:19:09"
+    },
+    {
+        "id": 7,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.64,
+        "bbox": {
+            "x1": 365,
+            "y1": 319,
+            "x2": 425,
+            "y2": 479
+        },
+        "image": "events/camera_1_person_7.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:19:13"
+    },
+    {
+        "id": 7,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.62,
+        "bbox": {
+            "x1": 365,
+            "y1": 320,
+            "x2": 423,
+            "y2": 479
+        },
+        "image": "events/camera_1_person_7.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:19:14"
+    },
+    {
+        "id": 7,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.6,
+        "bbox": {
+            "x1": 364,
+            "y1": 320,
+            "x2": 422,
+            "y2": 479
+        },
+        "image": "events/camera_1_person_7.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:19:15"
+    },
+    {
+        "id": 7,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.65,
+        "bbox": {
+            "x1": 365,
+            "y1": 315,
+            "x2": 424,
+            "y2": 479
+        },
+        "image": "events/camera_1_person_7.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:19:18"
+    },
+    {
+        "id": 10,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.86,
+        "bbox": {
+            "x1": 158,
+            "y1": 239,
+            "x2": 279,
+            "y2": 393
+        },
+        "image": "events/camera_1_person_10.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:19:18"
+    },
+    {
+        "id": 7,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.61,
+        "bbox": {
+            "x1": 367,
+            "y1": 311,
+            "x2": 423,
+            "y2": 470
+        },
+        "image": "events/camera_1_person_7.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:19:21"
+    },
+    {
+        "id": 7,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.61,
+        "bbox": {
+            "x1": 366,
+            "y1": 311,
+            "x2": 423,
+            "y2": 472
+        },
+        "image": "events/camera_1_person_7.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:19:22"
+    },
+    {
+        "id": 7,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.7,
+        "bbox": {
+            "x1": 363,
+            "y1": 318,
+            "x2": 421,
+            "y2": 479
+        },
+        "image": "events/camera_1_person_7.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:19:24"
+    },
+    {
+        "id": 7,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.64,
+        "bbox": {
+            "x1": 363,
+            "y1": 309,
+            "x2": 424,
+            "y2": 477
+        },
+        "image": "events/camera_1_person_7.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:19:24"
+    },
+    {
+        "id": 7,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.69,
+        "bbox": {
+            "x1": 367,
+            "y1": 318,
+            "x2": 424,
+            "y2": 478
+        },
+        "image": "events/camera_1_person_7.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:19:29"
+    },
+    {
+        "id": 13,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.69,
+        "bbox": {
+            "x1": 367,
+            "y1": 313,
+            "x2": 420,
+            "y2": 439
+        },
+        "image": "events/camera_1_person_13.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:19:36"
+    },
+    {
+        "id": 14,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.69,
+        "bbox": {
+            "x1": 4,
+            "y1": 193,
+            "x2": 34,
+            "y2": 325
+        },
+        "image": "events/camera_1_person_14.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:19:39"
+    },
+    {
+        "id": 2,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.74,
+        "bbox": {
+            "x1": 243,
+            "y1": 311,
+            "x2": 409,
+            "y2": 479
+        },
+        "image": "events/camera_1_person_2.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:19:39"
+    },
+    {
+        "id": 13,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.61,
+        "bbox": {
+            "x1": 366,
+            "y1": 313,
+            "x2": 417,
+            "y2": 432
+        },
+        "image": "events/camera_1_person_13.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:19:39"
+    },
+    {
+        "id": 13,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.62,
+        "bbox": {
+            "x1": 364,
+            "y1": 313,
+            "x2": 417,
+            "y2": 434
+        },
+        "image": "events/camera_1_person_13.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:19:39"
+    },
+    {
+        "id": 13,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.62,
+        "bbox": {
+            "x1": 363,
+            "y1": 311,
+            "x2": 418,
+            "y2": 433
+        },
+        "image": "events/camera_1_person_13.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:19:39"
+    },
+    {
+        "id": 2,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.8,
+        "bbox": {
+            "x1": 271,
+            "y1": 309,
+            "x2": 412,
+            "y2": 479
+        },
+        "image": "events/camera_1_person_2.jpg",
+        "status": "active",
+        "time": "2026-07-31 12:19:43"
+    },
+    {
+        "id": 1,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.92,
+        "bbox": {
+            "x1": 45,
+            "y1": 132,
+            "x2": 586,
+            "y2": 479
+        },
+        "image": "events/camera_1_person_1.jpg",
+        "status": "active",
+        "time": "2026-08-22 17:34:52"
+    },
+    {
+        "id": 6,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.92,
+        "bbox": {
+            "x1": 561,
+            "y1": 241,
+            "x2": 630,
+            "y2": 478
+        },
+        "image": "events/camera_1_person_6.jpg",
+        "status": "active",
+        "time": "2026-08-22 17:35:12"
+    },
+    {
+        "id": 6,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.82,
+        "bbox": {
+            "x1": 492,
+            "y1": 250,
+            "x2": 567,
+            "y2": 471
+        },
+        "image": "events/camera_1_person_6.jpg",
+        "status": "active",
+        "time": "2026-08-22 17:35:12"
+    },
+    {
+        "id": 1,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.71,
+        "bbox": {
+            "x1": 152,
+            "y1": 0,
+            "x2": 640,
+            "y2": 473
+        },
+        "image": "events/camera_1_person_1.jpg",
+        "status": "active",
+        "time": "2026-08-22 17:35:48"
+    },
+    {
+        "id": 7,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.87,
+        "bbox": {
+            "x1": 540,
+            "y1": 41,
+            "x2": 640,
+            "y2": 478
+        },
+        "image": "events/camera_1_person_7.jpg",
+        "status": "active",
+        "time": "2026-08-22 17:35:49"
+    },
+    {
+        "id": 8,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.9,
+        "bbox": {
+            "x1": 529,
+            "y1": 1,
+            "x2": 619,
+            "y2": 478
+        },
+        "image": "events/camera_1_person_8.jpg",
+        "status": "active",
+        "time": "2026-08-22 17:35:53"
+    },
+    {
+        "id": 5,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.63,
+        "bbox": {
+            "x1": 168,
+            "y1": 0,
+            "x2": 440,
+            "y2": 477
+        },
+        "image": "events/camera_1_person_5.jpg",
+        "status": "active",
+        "time": "2026-08-22 17:35:55"
+    },
+    {
+        "id": 5,
+        "camera": "Вхід",
+        "object": "person",
+        "confidence": 0.84,
+        "bbox": {
+            "x1": 169,
+            "y1": 34,
+            "x2": 482,
+            "y2": 478
+        },
+        "image": "events/camera_1_person_5.jpg",
+        "status": "active",
+        "time": "2026-08-22 17:35:55"
+    },
+    {
+        "id": 1,
+        "camera": "Test",
+        "object": "person",
+        "confidence": 0.92,
+        "bbox": {
+            "x1": 3,
+            "y1": 224,
+            "x2": 463,
+            "y2": 479
+        },
+        "image": "events\\camera_3_person_1.jpg",
+        "status": "active",
+        "time": "2026-09-06 10:42:13"
+    },
+    {
+        "id": 1,
+        "camera": "Test",
+        "object": "person",
+        "confidence": 0.95,
+        "bbox": {
+            "x1": 0,
+            "y1": 210,
+            "x2": 392,
+            "y2": 479
+        },
+        "image": "events\\camera_3_person_1.jpg",
+        "status": "active",
+        "time": "2026-09-06 10:47:39"
+    },
+    {
+        "id": 1,
+        "camera": "Test",
+        "object": "person",
+        "confidence": 0.95,
+        "bbox": {
+            "x1": 0,
+            "y1": 189,
+            "x2": 386,
+            "y2": 479
+        },
+        "image": "events\\camera_3_person_1.jpg",
+        "status": "active",
+        "time": "2026-09-06 10:48:32"
+    },
+    {
+        "id": 1,
+        "camera": "Test",
+        "object": "person",
+        "confidence": 0.95,
+        "bbox": {
+            "x1": 0,
+            "y1": 207,
+            "x2": 383,
+            "y2": 479
+        },
+        "image": "events\\camera_3_person_1.jpg",
+        "status": "active",
+        "time": "2026-09-06 10:49:55"
+    },
+    {
+        "id": 1,
+        "camera": "Test",
+        "object": "person",
+        "confidence": 0.95,
+        "bbox": {
+            "x1": 0,
+            "y1": 215,
+            "x2": 394,
+            "y2": 479
+        },
+        "image": "events\\camera_3_person_1.jpg",
+        "status": "active",
+        "time": "2026-09-06 10:52:32"
+    },
+    {
+        "id": 15,
+        "track_id": 1,
+        "camera": "Test",
+        "object": "person",
+        "confidence": 0.95,
+        "bbox": {
+            "x1": 0,
+            "y1": 196,
+            "x2": 403,
+            "y2": 479
+        },
+        "image": "events\\camera_3_person_1.jpg",
+        "status": "active",
+        "time": "2026-09-06 11:10:14"
+    },
+    {
+        "id": 16,
+        "track_id": 1,
+        "camera": "Test",
+        "object": "person",
+        "confidence": 0.62,
+        "bbox": {
+            "x1": 117,
+            "y1": 172,
+            "x2": 435,
+            "y2": 479
+        },
+        "image": "events\\camera_3_person_1.jpg",
+        "status": "active",
+        "time": "2026-09-06 11:10:44"
+    },
+    {
+        "id": 17,
+        "track_id": 4,
+        "camera": "Test",
+        "object": "person",
+        "confidence": 0.83,
+        "bbox": {
+            "x1": 8,
+            "y1": 102,
+            "x2": 66,
+            "y2": 478
+        },
+        "image": "events\\camera_3_person_4.jpg",
+        "status": "active",
+        "time": "2026-09-06 11:10:51"
+    },
+    {
+        "id": 18,
+        "track_id": 1,
+        "camera": "Test",
+        "object": "person",
+        "confidence": 0.94,
+        "bbox": {
+            "x1": 0,
+            "y1": 205,
+            "x2": 405,
+            "y2": 479
+        },
+        "image": "events\\camera_3_person_1_1788682664.jpg",
+        "status": "active",
+        "time": "2026-09-06 11:17:44"
+    },
+    {
+        "id": 19,
+        "track_id": 5,
+        "camera": "Test",
+        "object": "person",
+        "confidence": 0.68,
+        "bbox": {
+            "x1": 87,
+            "y1": 329,
+            "x2": 308,
+            "y2": 479
+        },
+        "image": "events\\camera_3_person_5_1788682683.jpg",
+        "status": "active",
+        "time": "2026-09-06 11:18:03"
+    },
+    {
+        "id": 20,
+        "track_id": 4,
+        "camera": "Test",
+        "object": "person",
+        "confidence": 0.73,
+        "bbox": {
+            "x1": 85,
+            "y1": 149,
+            "x2": 252,
+            "y2": 479
+        },
+        "image": "events\\camera_3_person_4_1788682685.jpg",
+        "status": "active",
+        "time": "2026-09-06 11:18:05"
+    }
+]

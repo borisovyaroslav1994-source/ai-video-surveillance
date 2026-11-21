@@ -1,0 +1,2756 @@
+[
+    {
+        "id": 1,
+        "laravel_id": 633,
+        "track_id": 2,
+        "camera_id": 13,
+        "camera": "вулиця",
+        "object": "car",
+        "confidence": 0.84,
+        "bbox": {
+            "x1": 1092,
+            "y1": 573,
+            "x2": 1419,
+            "y2": 732
+        },
+        "image": "events\\camera_13_car_1_1795083801.jpg",
+        "status": "active",
+        "time": "2026-11-19 12:23:21"
+    },
+    {
+        "id": 2,
+        "laravel_id": 634,
+        "track_id": 3,
+        "camera_id": 13,
+        "camera": "вулиця",
+        "object": "car",
+        "confidence": 0.8,
+        "bbox": {
+            "x1": 873,
+            "y1": 501,
+            "x2": 1167,
+            "y2": 603
+        },
+        "image": "events\\camera_13_car_2_1795083802.jpg",
+        "status": "active",
+        "time": "2026-11-19 12:23:22"
+    },
+    {
+        "id": 3,
+        "laravel_id": 635,
+        "track_id": 4,
+        "camera_id": 13,
+        "camera": "вулиця",
+        "object": "car",
+        "confidence": 0.74,
+        "bbox": {
+            "x1": 786,
+            "y1": 471,
+            "x2": 984,
+            "y2": 564
+        },
+        "image": "events\\camera_13_car_3_1795083802.jpg",
+        "status": "active",
+        "time": "2026-11-19 12:23:22"
+    },
+    {
+        "id": 4,
+        "laravel_id": 636,
+        "track_id": 1,
+        "camera_id": 16,
+        "camera": "Test",
+        "object": "person",
+        "confidence": 0.94,
+        "bbox": {
+            "x1": 0,
+            "y1": 191,
+            "x2": 400,
+            "y2": 479
+        },
+        "image": "events\\camera_16_person_4_1795083803.jpg",
+        "status": "active",
+        "time": "2026-11-19 12:23:23"
+    },
+    {
+        "id": 5,
+        "laravel_id": 637,
+        "track_id": 27,
+        "camera_id": 16,
+        "camera": "Test",
+        "object": "person",
+        "confidence": 0.88,
+        "bbox": {
+            "x1": 196,
+            "y1": 154,
+            "x2": 437,
+            "y2": 478
+        },
+        "image": "events\\camera_16_person_5_1795084273.jpg",
+        "status": "active",
+        "time": "2026-11-19 12:31:13"
+    },
+    {
+        "id": 6,
+        "laravel_id": 638,
+        "track_id": 1,
+        "camera_id": 13,
+        "camera": "вулиця",
+        "object": "car",
+        "confidence": 0.85,
+        "bbox": {
+            "x1": 1092,
+            "y1": 570,
+            "x2": 1416,
+            "y2": 732
+        },
+        "image": "events\\camera_13_car_1_1795084571.jpg",
+        "status": "active",
+        "time": "2026-11-19 12:36:11"
+    },
+    {
+        "id": 7,
+        "laravel_id": 639,
+        "track_id": 2,
+        "camera_id": 13,
+        "camera": "вулиця",
+        "object": "car",
+        "confidence": 0.78,
+        "bbox": {
+            "x1": 867,
+            "y1": 501,
+            "x2": 1167,
+            "y2": 603
+        },
+        "image": "events\\camera_13_car_2_1795084572.jpg",
+        "status": "active",
+        "time": "2026-11-19 12:36:12"
+    },
+    {
+        "id": 8,
+        "laravel_id": 640,
+        "track_id": 3,
+        "camera_id": 13,
+        "camera": "вулиця",
+        "object": "car",
+        "confidence": 0.75,
+        "bbox": {
+            "x1": 786,
+            "y1": 474,
+            "x2": 981,
+            "y2": 564
+        },
+        "image": "events\\camera_13_car_3_1795084573.jpg",
+        "status": "active",
+        "time": "2026-11-19 12:36:13"
+    },
+    {
+        "id": 9,
+        "laravel_id": 641,
+        "track_id": 4,
+        "camera_id": 16,
+        "camera": "Test",
+        "object": "person",
+        "confidence": 0.89,
+        "bbox": {
+            "x1": 0,
+            "y1": 181,
+            "x2": 410,
+            "y2": 479
+        },
+        "image": "events\\camera_16_person_4_1795084574.jpg",
+        "status": "active",
+        "time": "2026-11-19 12:36:14"
+    },
+    {
+        "id": 10,
+        "laravel_id": 642,
+        "track_id": 5,
+        "camera_id": 16,
+        "camera": "Test",
+        "object": "person",
+        "confidence": 0.85,
+        "bbox": {
+            "x1": 294,
+            "y1": 95,
+            "x2": 443,
+            "y2": 473
+        },
+        "image": "events\\camera_16_person_5_1795084575.jpg",
+        "status": "active",
+        "time": "2026-11-19 12:36:15"
+    },
+    {
+        "id": 11,
+        "laravel_id": 643,
+        "track_id": 10,
+        "camera_id": 13,
+        "camera": "вулиця",
+        "object": "truck",
+        "confidence": 0.91,
+        "bbox": {
+            "x1": 36,
+            "y1": 534,
+            "x2": 639,
+            "y2": 969
+        },
+        "image": "events\\camera_13_truck_6_1795084613.jpg",
+        "status": "active",
+        "time": "2026-11-19 12:36:53"
+    },
+    {
+        "id": 12,
+        "laravel_id": 644,
+        "track_id": 1,
+        "camera_id": 13,
+        "camera": "вулиця",
+        "object": "car",
+        "confidence": 0.89,
+        "bbox": {
+            "x1": 1090,
+            "y1": 570,
+            "x2": 1416,
+            "y2": 732
+        },
+        "image": "events\\camera_13_car_1_1795085737.jpg",
+        "status": "active",
+        "time": "2026-11-19 12:55:37"
+    },
+    {
+        "id": 13,
+        "laravel_id": 645,
+        "track_id": 2,
+        "camera_id": 13,
+        "camera": "вулиця",
+        "object": "car",
+        "confidence": 0.88,
+        "bbox": {
+            "x1": 856,
+            "y1": 498,
+            "x2": 1170,
+            "y2": 604
+        },
+        "image": "events\\camera_13_car_2_1795085738.jpg",
+        "status": "active",
+        "time": "2026-11-19 12:55:38"
+    },
+    {
+        "id": 14,
+        "laravel_id": 646,
+        "track_id": 3,
+        "camera_id": 13,
+        "camera": "вулиця",
+        "object": "car",
+        "confidence": 0.83,
+        "bbox": {
+            "x1": 788,
+            "y1": 472,
+            "x2": 976,
+            "y2": 562
+        },
+        "image": "events\\camera_13_car_3_1795085740.jpg",
+        "status": "active",
+        "time": "2026-11-19 12:55:40"
+    },
+    {
+        "id": 15,
+        "laravel_id": 647,
+        "track_id": 4,
+        "camera_id": 16,
+        "camera": "Test",
+        "object": "person",
+        "confidence": 0.81,
+        "bbox": {
+            "x1": 31,
+            "y1": 200,
+            "x2": 428,
+            "y2": 476
+        },
+        "image": "events\\camera_16_person_4_1795085741.jpg",
+        "status": "active",
+        "time": "2026-11-19 12:55:41"
+    },
+    {
+        "id": 16,
+        "laravel_id": 648,
+        "track_id": 7,
+        "camera_id": 16,
+        "camera": "Test",
+        "object": "person",
+        "confidence": 0.92,
+        "bbox": {
+            "x1": 264,
+            "y1": 123,
+            "x2": 428,
+            "y2": 472
+        },
+        "image": "events\\camera_16_person_5_1795085743.jpg",
+        "status": "active",
+        "time": "2026-11-19 12:55:43"
+    },
+    {
+        "id": 17,
+        "laravel_id": 649,
+        "track_id": 8,
+        "camera_id": 16,
+        "camera": "Test",
+        "object": "car",
+        "confidence": 0.91,
+        "bbox": {
+            "x1": 390,
+            "y1": 279,
+            "x2": 640,
+            "y2": 389
+        },
+        "image": "events\\camera_16_car_6_1795085808.jpg",
+        "status": "active",
+        "time": "2026-11-19 12:56:48"
+    },
+    {
+        "id": 18,
+        "laravel_id": 650,
+        "track_id": 7,
+        "camera_id": 16,
+        "camera": "Test",
+        "object": "truck",
+        "confidence": 0.88,
+        "bbox": {
+            "x1": 241,
+            "y1": 298,
+            "x2": 413,
+            "y2": 437
+        },
+        "image": "events\\camera_16_truck_7_1795085896.jpg",
+        "status": "active",
+        "time": "2026-11-19 12:58:16"
+    },
+    {
+        "id": 19,
+        "laravel_id": 651,
+        "track_id": 28,
+        "camera_id": 16,
+        "camera": "Test",
+        "object": "person",
+        "confidence": 0.85,
+        "bbox": {
+            "x1": 305,
+            "y1": 295,
+            "x2": 415,
+            "y2": 464
+        },
+        "image": "events\\camera_16_person_8_1795086057.jpg",
+        "status": "active",
+        "time": "2026-11-19 13:00:57"
+    },
+    {
+        "id": 20,
+        "laravel_id": 652,
+        "track_id": 1,
+        "camera_id": 13,
+        "camera": "вулиця",
+        "object": "car",
+        "confidence": 0.9,
+        "bbox": {
+            "x1": 862,
+            "y1": 498,
+            "x2": 1162,
+            "y2": 604
+        },
+        "image": "events\\camera_13_car_1_1795086180.jpg",
+        "status": "active",
+        "time": "2026-11-19 13:03:00"
+    },
+    {
+        "id": 21,
+        "laravel_id": 653,
+        "track_id": 2,
+        "camera_id": 13,
+        "camera": "вулиця",
+        "object": "car",
+        "confidence": 0.89,
+        "bbox": {
+            "x1": 1092,
+            "y1": 570,
+            "x2": 1416,
+            "y2": 732
+        },
+        "image": "events\\camera_13_car_2_1795086182.jpg",
+        "status": "active",
+        "time": "2026-11-19 13:03:02"
+    },
+    {
+        "id": 22,
+        "laravel_id": 654,
+        "track_id": 3,
+        "camera_id": 13,
+        "camera": "вулиця",
+        "object": "car",
+        "confidence": 0.8,
+        "bbox": {
+            "x1": 788,
+            "y1": 470,
+            "x2": 978,
+            "y2": 562
+        },
+        "image": "events\\camera_13_car_3_1795086183.jpg",
+        "status": "active",
+        "time": "2026-11-19 13:03:03"
+    },
+    {
+        "id": 23,
+        "laravel_id": 655,
+        "track_id": 10,
+        "camera_id": 13,
+        "camera": "вулиця",
+        "object": "person",
+        "confidence": 0.78,
+        "bbox": {
+            "x1": 480,
+            "y1": 396,
+            "x2": 512,
+            "y2": 472
+        },
+        "image": "events\\camera_13_person_4_1795086324.jpg",
+        "status": "active",
+        "time": "2026-11-19 13:05:24"
+    },
+    {
+        "id": 24,
+        "laravel_id": 656,
+        "track_id": 19,
+        "camera_id": 13,
+        "camera": "вулиця",
+        "object": "person",
+        "confidence": 0.76,
+        "bbox": {
+            "x1": 962,
+            "y1": 600,
+            "x2": 1016,
+            "y2": 752
+        },
+        "image": "events\\camera_13_person_5_1795086341.jpg",
+        "status": "active",
+        "time": "2026-11-19 13:05:41"
+    },
+    {
+        "id": 25,
+        "laravel_id": 658,
+        "track_id": 1,
+        "camera_id": 16,
+        "camera": "Test",
+        "object": "person",
+        "confidence": 0.56,
+        "bbox": {
+            "x1": 272,
+            "y1": 395,
+            "x2": 440,
+            "y2": 479
+        },
+        "image": "events\\camera_16_person_1_1795088946.jpg",
+        "status": "active",
+        "time": "2026-11-19 13:49:06"
+    },
+    {
+        "id": 26,
+        "laravel_id": 659,
+        "track_id": 2,
+        "camera_id": 16,
+        "camera": "Test",
+        "object": "person",
+        "confidence": 0.41,
+        "bbox": {
+            "x1": 1,
+            "y1": 213,
+            "x2": 291,
+            "y2": 478
+        },
+        "image": "events\\camera_16_person_2_1795088946.jpg",
+        "status": "active",
+        "time": "2026-11-19 13:49:06"
+    },
+    {
+        "id": 27,
+        "laravel_id": 660,
+        "track_id": 3,
+        "camera_id": 16,
+        "camera": "Test",
+        "object": "person",
+        "confidence": 0.36,
+        "bbox": {
+            "x1": 2,
+            "y1": 215,
+            "x2": 439,
+            "y2": 479
+        },
+        "image": "events\\camera_16_person_3_1795088947.jpg",
+        "status": "active",
+        "time": "2026-11-19 13:49:07"
+    },
+    {
+        "id": 28,
+        "laravel_id": 661,
+        "track_id": 7,
+        "camera_id": 16,
+        "camera": "Test",
+        "object": "person",
+        "confidence": 0.61,
+        "bbox": {
+            "x1": 160,
+            "y1": 325,
+            "x2": 190,
+            "y2": 351
+        },
+        "image": "events\\camera_16_person_4_1795088982.jpg",
+        "status": "active",
+        "time": "2026-11-19 13:49:42"
+    },
+    {
+        "id": 29,
+        "laravel_id": 662,
+        "track_id": 12,
+        "camera_id": 16,
+        "camera": "Test",
+        "object": "person",
+        "confidence": 0.74,
+        "bbox": {
+            "x1": 346,
+            "y1": 393,
+            "x2": 428,
+            "y2": 479
+        },
+        "image": "events\\camera_16_person_5_1795089040.jpg",
+        "status": "active",
+        "time": "2026-11-19 13:50:40"
+    },
+    {
+        "id": 30,
+        "laravel_id": 663,
+        "track_id": 13,
+        "camera_id": 16,
+        "camera": "Test",
+        "object": "person",
+        "confidence": 0.64,
+        "bbox": {
+            "x1": 229,
+            "y1": 409,
+            "x2": 304,
+            "y2": 464
+        },
+        "image": "events\\camera_16_person_6_1795089043.jpg",
+        "status": "active",
+        "time": "2026-11-19 13:50:43"
+    },
+    {
+        "id": 31,
+        "laravel_id": 664,
+        "track_id": 15,
+        "camera_id": 16,
+        "camera": "Test",
+        "object": "person",
+        "confidence": 0.84,
+        "bbox": {
+            "x1": 341,
+            "y1": 394,
+            "x2": 443,
+            "y2": 479
+        },
+        "image": "events\\camera_16_person_7_1795089101.jpg",
+        "status": "active",
+        "time": "2026-11-19 13:51:41"
+    },
+    {
+        "id": 32,
+        "laravel_id": 665,
+        "track_id": 2,
+        "camera_id": 16,
+        "camera": "Test",
+        "object": "person",
+        "confidence": 0.85,
+        "bbox": {
+            "x1": 3,
+            "y1": 217,
+            "x2": 456,
+            "y2": 479
+        },
+        "image": "events\\camera_16_person_1_1795093932.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:12:12"
+    },
+    {
+        "id": 33,
+        "laravel_id": 666,
+        "track_id": 1,
+        "camera_id": 17,
+        "camera": "двір",
+        "object": "truck",
+        "confidence": 0.33,
+        "bbox": {
+            "x1": 1032,
+            "y1": 74,
+            "x2": 1278,
+            "y2": 240
+        },
+        "image": "events\\camera_17_truck_2_1795093932.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:12:12"
+    },
+    {
+        "id": 34,
+        "laravel_id": 667,
+        "track_id": null,
+        "camera_id": 17,
+        "camera": "двір",
+        "object": "person",
+        "confidence": 0.79,
+        "bbox": {
+            "x1": 744,
+            "y1": 216,
+            "x2": 838,
+            "y2": 478
+        },
+        "image": "events\\camera_17_person_3_1795093933.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:12:13"
+    },
+    {
+        "id": 35,
+        "laravel_id": 668,
+        "track_id": 1,
+        "camera_id": 17,
+        "camera": "перевірка детекції рухомих об'єктів.",
+        "object": "truck",
+        "confidence": 0.56,
+        "bbox": {
+            "x1": 1034,
+            "y1": 6,
+            "x2": 1278,
+            "y2": 240
+        },
+        "image": "events\\camera_17_truck_1_1795094283.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:18:03"
+    },
+    {
+        "id": 36,
+        "laravel_id": 669,
+        "track_id": 1,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.78,
+        "bbox": {
+            "x1": 614,
+            "y1": 308,
+            "x2": 826,
+            "y2": 618
+        },
+        "image": "events\\camera_18_person_2_1795094285.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:18:05"
+    },
+    {
+        "id": 37,
+        "laravel_id": 670,
+        "track_id": 4,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.65,
+        "bbox": {
+            "x1": 356,
+            "y1": 284,
+            "x2": 476,
+            "y2": 568
+        },
+        "image": "events\\camera_18_person_3_1795094289.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:18:09"
+    },
+    {
+        "id": 38,
+        "laravel_id": 671,
+        "track_id": 5,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.61,
+        "bbox": {
+            "x1": 506,
+            "y1": 318,
+            "x2": 638,
+            "y2": 616
+        },
+        "image": "events\\camera_18_person_4_1795094295.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:18:16"
+    },
+    {
+        "id": 39,
+        "laravel_id": 672,
+        "track_id": 6,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.46,
+        "bbox": {
+            "x1": 786,
+            "y1": 286,
+            "x2": 924,
+            "y2": 524
+        },
+        "image": "events\\camera_18_person_5_1795094300.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:18:20"
+    },
+    {
+        "id": 40,
+        "laravel_id": 673,
+        "track_id": 8,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.45,
+        "bbox": {
+            "x1": 1198,
+            "y1": 266,
+            "x2": 1278,
+            "y2": 416
+        },
+        "image": "events\\camera_18_person_6_1795094302.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:18:22"
+    },
+    {
+        "id": 41,
+        "laravel_id": 674,
+        "track_id": 9,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.39,
+        "bbox": {
+            "x1": 968,
+            "y1": 214,
+            "x2": 1274,
+            "y2": 478
+        },
+        "image": "events\\camera_18_person_7_1795094304.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:18:24"
+    },
+    {
+        "id": 42,
+        "laravel_id": 675,
+        "track_id": null,
+        "camera_id": 20,
+        "camera": "Для тестування підключення RTSP та обробки відео",
+        "object": "person",
+        "confidence": 0.81,
+        "bbox": {
+            "x1": 466,
+            "y1": 76,
+            "x2": 898,
+            "y2": 352
+        },
+        "image": "events\\camera_20_person_8_1795094305.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:18:25"
+    },
+    {
+        "id": 43,
+        "laravel_id": 676,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.65,
+        "bbox": {
+            "x1": 584,
+            "y1": 78,
+            "x2": 638,
+            "y2": 222
+        },
+        "image": "events\\camera_18_person_9_1795094311.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:18:31"
+    },
+    {
+        "id": 44,
+        "laravel_id": 677,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.6,
+        "bbox": {
+            "x1": 742,
+            "y1": 0,
+            "x2": 784,
+            "y2": 44
+        },
+        "image": "events\\camera_18_person_10_1795094312.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:18:32"
+    },
+    {
+        "id": 45,
+        "laravel_id": 678,
+        "track_id": null,
+        "camera_id": 19,
+        "camera": "перевірка обробки відеопотоку та стабільності декодування",
+        "object": "person",
+        "confidence": 0.88,
+        "bbox": {
+            "x1": 330,
+            "y1": 294,
+            "x2": 414,
+            "y2": 450
+        },
+        "image": "events\\camera_19_person_11_1795094316.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:18:37"
+    },
+    {
+        "id": 46,
+        "laravel_id": 679,
+        "track_id": null,
+        "camera_id": 19,
+        "camera": "перевірка обробки відеопотоку та стабільності декодування",
+        "object": "person",
+        "confidence": 0.88,
+        "bbox": {
+            "x1": 52,
+            "y1": 12,
+            "x2": 184,
+            "y2": 422
+        },
+        "image": "events\\camera_19_person_12_1795094317.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:18:38"
+    },
+    {
+        "id": 47,
+        "laravel_id": 680,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.89,
+        "bbox": {
+            "x1": 294,
+            "y1": 434,
+            "x2": 348,
+            "y2": 558
+        },
+        "image": "events\\camera_18_person_13_1795094334.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:18:54"
+    },
+    {
+        "id": 48,
+        "laravel_id": 681,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.79,
+        "bbox": {
+            "x1": 160,
+            "y1": 260,
+            "x2": 200,
+            "y2": 370
+        },
+        "image": "events\\camera_18_person_14_1795094334.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:18:54"
+    },
+    {
+        "id": 49,
+        "laravel_id": 682,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.77,
+        "bbox": {
+            "x1": 22,
+            "y1": 288,
+            "x2": 62,
+            "y2": 388
+        },
+        "image": "events\\camera_18_person_15_1795094335.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:18:55"
+    },
+    {
+        "id": 50,
+        "laravel_id": 683,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.74,
+        "bbox": {
+            "x1": 192,
+            "y1": 564,
+            "x2": 238,
+            "y2": 622
+        },
+        "image": "events\\camera_18_person_16_1795094336.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:18:56"
+    },
+    {
+        "id": 51,
+        "laravel_id": 684,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.67,
+        "bbox": {
+            "x1": 270,
+            "y1": 684,
+            "x2": 316,
+            "y2": 718
+        },
+        "image": "events\\camera_18_person_17_1795094337.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:18:57"
+    },
+    {
+        "id": 52,
+        "laravel_id": 685,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.67,
+        "bbox": {
+            "x1": 390,
+            "y1": 578,
+            "x2": 434,
+            "y2": 622
+        },
+        "image": "events\\camera_18_person_18_1795094338.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:18:58"
+    },
+    {
+        "id": 53,
+        "laravel_id": 686,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.39,
+        "bbox": {
+            "x1": 1242,
+            "y1": 70,
+            "x2": 1270,
+            "y2": 134
+        },
+        "image": "events\\camera_18_person_19_1795094339.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:18:59"
+    },
+    {
+        "id": 54,
+        "laravel_id": 687,
+        "track_id": null,
+        "camera_id": 19,
+        "camera": "перевірка обробки відеопотоку та стабільності декодування",
+        "object": "person",
+        "confidence": 0.74,
+        "bbox": {
+            "x1": 56,
+            "y1": 244,
+            "x2": 122,
+            "y2": 488
+        },
+        "image": "events\\camera_19_person_20_1795094339.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:19:00"
+    },
+    {
+        "id": 55,
+        "laravel_id": 688,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.84,
+        "bbox": {
+            "x1": 664,
+            "y1": 378,
+            "x2": 738,
+            "y2": 574
+        },
+        "image": "events\\camera_18_person_21_1795094363.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:19:23"
+    },
+    {
+        "id": 56,
+        "laravel_id": 689,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.66,
+        "bbox": {
+            "x1": 758,
+            "y1": 296,
+            "x2": 772,
+            "y2": 336
+        },
+        "image": "events\\camera_18_person_22_1795094366.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:19:26"
+    },
+    {
+        "id": 57,
+        "laravel_id": 690,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.63,
+        "bbox": {
+            "x1": 288,
+            "y1": 392,
+            "x2": 310,
+            "y2": 444
+        },
+        "image": "events\\camera_18_person_23_1795094366.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:19:26"
+    },
+    {
+        "id": 58,
+        "laravel_id": 691,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.48,
+        "bbox": {
+            "x1": 350,
+            "y1": 308,
+            "x2": 368,
+            "y2": 344
+        },
+        "image": "events\\camera_18_person_24_1795094367.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:19:27"
+    },
+    {
+        "id": 59,
+        "laravel_id": 692,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.37,
+        "bbox": {
+            "x1": 62,
+            "y1": 378,
+            "x2": 76,
+            "y2": 410
+        },
+        "image": "events\\camera_18_person_25_1795094370.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:19:30"
+    },
+    {
+        "id": 60,
+        "laravel_id": 693,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.77,
+        "bbox": {
+            "x1": 1016,
+            "y1": 162,
+            "x2": 1278,
+            "y2": 462
+        },
+        "image": "events\\camera_18_person_26_1795094377.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:19:37"
+    },
+    {
+        "id": 61,
+        "laravel_id": null,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.43,
+        "bbox": {
+            "x1": 1032,
+            "y1": 348,
+            "x2": 1046,
+            "y2": 380
+        },
+        "image": "events\\camera_18_person_27_1795094380.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:19:40"
+    },
+    {
+        "id": 62,
+        "laravel_id": 695,
+        "track_id": 108,
+        "camera_id": 20,
+        "camera": "Для тестування підключення RTSP та обробки відео",
+        "object": "person",
+        "confidence": 0.82,
+        "bbox": {
+            "x1": 286,
+            "y1": 54,
+            "x2": 1190,
+            "y2": 700
+        },
+        "image": "events\\camera_20_person_28_1795094401.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:20:01"
+    },
+    {
+        "id": 63,
+        "laravel_id": 696,
+        "track_id": 1,
+        "camera_id": 17,
+        "camera": "перевірка детекції рухомих об'єктів.",
+        "object": "truck",
+        "confidence": 0.33,
+        "bbox": {
+            "x1": 1032,
+            "y1": 76,
+            "x2": 1278,
+            "y2": 240
+        },
+        "image": "events\\camera_17_truck_1_1795094476.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:21:16"
+    },
+    {
+        "id": 64,
+        "laravel_id": 697,
+        "track_id": 2,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.89,
+        "bbox": {
+            "x1": 70,
+            "y1": 268,
+            "x2": 1038,
+            "y2": 714
+        },
+        "image": "events\\camera_18_person_2_1795094477.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:21:17"
+    },
+    {
+        "id": 65,
+        "laravel_id": 698,
+        "track_id": 4,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.45,
+        "bbox": {
+            "x1": 768,
+            "y1": 20,
+            "x2": 1154,
+            "y2": 544
+        },
+        "image": "events\\camera_18_person_3_1795094477.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:21:17"
+    },
+    {
+        "id": 66,
+        "laravel_id": 699,
+        "track_id": 5,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.44,
+        "bbox": {
+            "x1": 1014,
+            "y1": 408,
+            "x2": 1278,
+            "y2": 718
+        },
+        "image": "events\\camera_18_person_4_1795094477.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:21:17"
+    },
+    {
+        "id": 67,
+        "laravel_id": 700,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.6,
+        "bbox": {
+            "x1": 398,
+            "y1": 0,
+            "x2": 508,
+            "y2": 50
+        },
+        "image": "events\\camera_18_person_5_1795094478.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:21:18"
+    },
+    {
+        "id": 68,
+        "laravel_id": 701,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.59,
+        "bbox": {
+            "x1": 694,
+            "y1": 466,
+            "x2": 792,
+            "y2": 716
+        },
+        "image": "events\\camera_18_person_6_1795094478.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:21:18"
+    },
+    {
+        "id": 69,
+        "laravel_id": 702,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.49,
+        "bbox": {
+            "x1": 696,
+            "y1": 466,
+            "x2": 790,
+            "y2": 622
+        },
+        "image": "events\\camera_18_person_7_1795094478.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:21:18"
+    },
+    {
+        "id": 70,
+        "laravel_id": 703,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.82,
+        "bbox": {
+            "x1": 520,
+            "y1": 472,
+            "x2": 574,
+            "y2": 602
+        },
+        "image": "events\\camera_18_person_8_1795094480.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:21:20"
+    },
+    {
+        "id": 71,
+        "laravel_id": 704,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.76,
+        "bbox": {
+            "x1": 1164,
+            "y1": 162,
+            "x2": 1200,
+            "y2": 240
+        },
+        "image": "events\\camera_18_person_9_1795094480.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:21:20"
+    },
+    {
+        "id": 72,
+        "laravel_id": 705,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.57,
+        "bbox": {
+            "x1": 546,
+            "y1": 302,
+            "x2": 582,
+            "y2": 376
+        },
+        "image": "events\\camera_18_person_10_1795094480.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:21:20"
+    },
+    {
+        "id": 73,
+        "laravel_id": 706,
+        "track_id": null,
+        "camera_id": 17,
+        "camera": "перевірка детекції рухомих об'єктів.",
+        "object": "person",
+        "confidence": 0.78,
+        "bbox": {
+            "x1": 756,
+            "y1": 218,
+            "x2": 844,
+            "y2": 482
+        },
+        "image": "events\\camera_17_person_11_1795094483.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:21:23"
+    },
+    {
+        "id": 74,
+        "laravel_id": 707,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.73,
+        "bbox": {
+            "x1": 814,
+            "y1": 352,
+            "x2": 830,
+            "y2": 394
+        },
+        "image": "events\\camera_18_person_12_1795094483.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:21:23"
+    },
+    {
+        "id": 75,
+        "laravel_id": 708,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.56,
+        "bbox": {
+            "x1": 316,
+            "y1": 400,
+            "x2": 334,
+            "y2": 448
+        },
+        "image": "events\\camera_18_person_13_1795094484.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:21:24"
+    },
+    {
+        "id": 76,
+        "laravel_id": 709,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.47,
+        "bbox": {
+            "x1": 238,
+            "y1": 378,
+            "x2": 260,
+            "y2": 420
+        },
+        "image": "events\\camera_18_person_14_1795094484.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:21:24"
+    },
+    {
+        "id": 77,
+        "laravel_id": 710,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.44,
+        "bbox": {
+            "x1": 264,
+            "y1": 330,
+            "x2": 282,
+            "y2": 366
+        },
+        "image": "events\\camera_18_person_15_1795094485.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:21:25"
+    },
+    {
+        "id": 78,
+        "laravel_id": 711,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.43,
+        "bbox": {
+            "x1": 250,
+            "y1": 408,
+            "x2": 270,
+            "y2": 454
+        },
+        "image": "events\\camera_18_person_16_1795094485.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:21:25"
+    },
+    {
+        "id": 79,
+        "laravel_id": 712,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.47,
+        "bbox": {
+            "x1": 1078,
+            "y1": 512,
+            "x2": 1098,
+            "y2": 554
+        },
+        "image": "events\\camera_18_person_17_1795094486.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:21:26"
+    },
+    {
+        "id": 80,
+        "laravel_id": 713,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.49,
+        "bbox": {
+            "x1": 754,
+            "y1": 542,
+            "x2": 854,
+            "y2": 714
+        },
+        "image": "events\\camera_18_person_18_1795094493.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:21:33"
+    },
+    {
+        "id": 81,
+        "laravel_id": 714,
+        "track_id": null,
+        "camera_id": 20,
+        "camera": "Для тестування підключення RTSP та обробки відео",
+        "object": "person",
+        "confidence": 0.73,
+        "bbox": {
+            "x1": 422,
+            "y1": 54,
+            "x2": 738,
+            "y2": 338
+        },
+        "image": "events\\camera_20_person_19_1795094494.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:21:34"
+    },
+    {
+        "id": 82,
+        "laravel_id": 715,
+        "track_id": null,
+        "camera_id": 19,
+        "camera": "перевірка обробки відеопотоку та стабільності декодування",
+        "object": "person",
+        "confidence": 0.78,
+        "bbox": {
+            "x1": 242,
+            "y1": 168,
+            "x2": 306,
+            "y2": 328
+        },
+        "image": "events\\camera_19_person_20_1795094497.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:21:37"
+    },
+    {
+        "id": 83,
+        "laravel_id": null,
+        "track_id": null,
+        "camera_id": 19,
+        "camera": "перевірка обробки відеопотоку та стабільності декодування",
+        "object": "person",
+        "confidence": 0.86,
+        "bbox": {
+            "x1": 338,
+            "y1": 298,
+            "x2": 420,
+            "y2": 458
+        },
+        "image": "events\\camera_19_person_21_1795094499.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:21:39"
+    },
+    {
+        "id": 84,
+        "laravel_id": 717,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.75,
+        "bbox": {
+            "x1": 26,
+            "y1": 164,
+            "x2": 74,
+            "y2": 242
+        },
+        "image": "events\\camera_18_person_22_1795094509.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:21:49"
+    },
+    {
+        "id": 85,
+        "laravel_id": 718,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.64,
+        "bbox": {
+            "x1": 578,
+            "y1": 192,
+            "x2": 604,
+            "y2": 272
+        },
+        "image": "events\\camera_18_person_23_1795094509.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:21:49"
+    },
+    {
+        "id": 86,
+        "laravel_id": 719,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.56,
+        "bbox": {
+            "x1": 0,
+            "y1": 124,
+            "x2": 186,
+            "y2": 638
+        },
+        "image": "events\\camera_18_person_24_1795094511.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:21:51"
+    },
+    {
+        "id": 87,
+        "laravel_id": 720,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.46,
+        "bbox": {
+            "x1": 788,
+            "y1": 150,
+            "x2": 960,
+            "y2": 372
+        },
+        "image": "events\\camera_18_person_25_1795094512.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:21:52"
+    },
+    {
+        "id": 88,
+        "laravel_id": 721,
+        "track_id": 78,
+        "camera_id": 19,
+        "camera": "перевірка обробки відеопотоку та стабільності декодування",
+        "object": "person",
+        "confidence": 0.82,
+        "bbox": {
+            "x1": 40,
+            "y1": 242,
+            "x2": 110,
+            "y2": 494
+        },
+        "image": "events\\camera_19_person_26_1795094514.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:21:54"
+    },
+    {
+        "id": 89,
+        "laravel_id": null,
+        "track_id": 91,
+        "camera_id": 17,
+        "camera": "перевірка детекції рухомих об'єктів.",
+        "object": "person",
+        "confidence": 0.74,
+        "bbox": {
+            "x1": 122,
+            "y1": 162,
+            "x2": 170,
+            "y2": 284
+        },
+        "image": "events\\camera_17_person_27_1795094521.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:22:01"
+    },
+    {
+        "id": 90,
+        "laravel_id": null,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "bus",
+        "confidence": 0.62,
+        "bbox": {
+            "x1": 160,
+            "y1": 612,
+            "x2": 1118,
+            "y2": 714
+        },
+        "image": "events\\camera_18_bus_28_1795094527.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:22:08"
+    },
+    {
+        "id": 91,
+        "laravel_id": 723,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "bus",
+        "confidence": 0.62,
+        "bbox": {
+            "x1": 0,
+            "y1": 618,
+            "x2": 160,
+            "y2": 708
+        },
+        "image": "events\\camera_18_bus_29_1795094534.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:22:14"
+    },
+    {
+        "id": 92,
+        "laravel_id": 725,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "bus",
+        "confidence": 0.53,
+        "bbox": {
+            "x1": 1118,
+            "y1": 618,
+            "x2": 1278,
+            "y2": 702
+        },
+        "image": "events\\camera_18_bus_30_1795094535.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:22:15"
+    },
+    {
+        "id": 93,
+        "laravel_id": 726,
+        "track_id": 197,
+        "camera_id": 20,
+        "camera": "Для тестування підключення RTSP та обробки відео",
+        "object": "person",
+        "confidence": 0.76,
+        "bbox": {
+            "x1": 0,
+            "y1": 524,
+            "x2": 322,
+            "y2": 714
+        },
+        "image": "events\\camera_20_person_31_1795094543.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:22:23"
+    },
+    {
+        "id": 94,
+        "laravel_id": 727,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.81,
+        "bbox": {
+            "x1": 1082,
+            "y1": 2,
+            "x2": 1214,
+            "y2": 50
+        },
+        "image": "events\\camera_18_person_32_1795094543.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:22:23"
+    },
+    {
+        "id": 95,
+        "laravel_id": 728,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.47,
+        "bbox": {
+            "x1": 1260,
+            "y1": 596,
+            "x2": 1278,
+            "y2": 718
+        },
+        "image": "events\\camera_18_person_33_1795094551.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:22:31"
+    },
+    {
+        "id": 96,
+        "laravel_id": 729,
+        "track_id": 9,
+        "camera_id": 17,
+        "camera": "перевірка детекції рухомих об'єктів.",
+        "object": "truck",
+        "confidence": 0.36,
+        "bbox": {
+            "x1": 1046,
+            "y1": 78,
+            "x2": 1266,
+            "y2": 240
+        },
+        "image": "events\\camera_17_truck_34_1795094554.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:22:34"
+    },
+    {
+        "id": 97,
+        "laravel_id": 730,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.55,
+        "bbox": {
+            "x1": 212,
+            "y1": 156,
+            "x2": 238,
+            "y2": 222
+        },
+        "image": "events\\camera_18_person_35_1795094568.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:22:48"
+    },
+    {
+        "id": 98,
+        "laravel_id": 731,
+        "track_id": 125,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.9,
+        "bbox": {
+            "x1": 474,
+            "y1": 48,
+            "x2": 1162,
+            "y2": 700
+        },
+        "image": "events\\camera_18_person_36_1795094571.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:22:51"
+    },
+    {
+        "id": 99,
+        "laravel_id": 732,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.62,
+        "bbox": {
+            "x1": 292,
+            "y1": 596,
+            "x2": 332,
+            "y2": 640
+        },
+        "image": "events\\camera_18_person_37_1795094584.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:23:04"
+    },
+    {
+        "id": 100,
+        "laravel_id": 733,
+        "track_id": null,
+        "camera_id": 19,
+        "camera": "перевірка обробки відеопотоку та стабільності декодування",
+        "object": "person",
+        "confidence": 0.88,
+        "bbox": {
+            "x1": 46,
+            "y1": 0,
+            "x2": 180,
+            "y2": 408
+        },
+        "image": "events\\camera_19_person_38_1795094593.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:23:13"
+    },
+    {
+        "id": 101,
+        "laravel_id": 734,
+        "track_id": null,
+        "camera_id": 19,
+        "camera": "перевірка обробки відеопотоку та стабільності декодування",
+        "object": "person",
+        "confidence": 0.79,
+        "bbox": {
+            "x1": 340,
+            "y1": 264,
+            "x2": 402,
+            "y2": 424
+        },
+        "image": "events\\camera_19_person_39_1795094593.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:23:13"
+    },
+    {
+        "id": 102,
+        "laravel_id": 735,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.83,
+        "bbox": {
+            "x1": 758,
+            "y1": 388,
+            "x2": 820,
+            "y2": 574
+        },
+        "image": "events\\camera_18_person_40_1795094598.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:23:18"
+    },
+    {
+        "id": 103,
+        "laravel_id": 736,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.74,
+        "bbox": {
+            "x1": 170,
+            "y1": 304,
+            "x2": 240,
+            "y2": 502
+        },
+        "image": "events\\camera_18_person_41_1795094599.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:23:19"
+    },
+    {
+        "id": 104,
+        "laravel_id": 737,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.74,
+        "bbox": {
+            "x1": 634,
+            "y1": 84,
+            "x2": 678,
+            "y2": 240
+        },
+        "image": "events\\camera_18_person_42_1795094600.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:23:20"
+    },
+    {
+        "id": 105,
+        "laravel_id": 738,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.66,
+        "bbox": {
+            "x1": 548,
+            "y1": 126,
+            "x2": 620,
+            "y2": 212
+        },
+        "image": "events\\camera_18_person_43_1795094600.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:23:20"
+    },
+    {
+        "id": 106,
+        "laravel_id": 739,
+        "track_id": 135,
+        "camera_id": 17,
+        "camera": "перевірка детекції рухомих об'єктів.",
+        "object": "person",
+        "confidence": 0.68,
+        "bbox": {
+            "x1": 192,
+            "y1": 124,
+            "x2": 250,
+            "y2": 232
+        },
+        "image": "events\\camera_17_person_44_1795094608.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:23:28"
+    },
+    {
+        "id": 107,
+        "laravel_id": 740,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.46,
+        "bbox": {
+            "x1": 320,
+            "y1": 208,
+            "x2": 826,
+            "y2": 714
+        },
+        "image": "events\\camera_18_person_45_1795094610.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:23:30"
+    },
+    {
+        "id": 108,
+        "laravel_id": 741,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.86,
+        "bbox": {
+            "x1": 620,
+            "y1": 464,
+            "x2": 728,
+            "y2": 720
+        },
+        "image": "events\\camera_18_person_46_1795094614.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:23:34"
+    },
+    {
+        "id": 109,
+        "laravel_id": 742,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.81,
+        "bbox": {
+            "x1": 696,
+            "y1": 122,
+            "x2": 794,
+            "y2": 232
+        },
+        "image": "events\\camera_18_person_47_1795094614.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:23:34"
+    },
+    {
+        "id": 110,
+        "laravel_id": 743,
+        "track_id": 94,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.86,
+        "bbox": {
+            "x1": 698,
+            "y1": 76,
+            "x2": 1254,
+            "y2": 656
+        },
+        "image": "events\\camera_18_person_48_1795094629.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:23:49"
+    },
+    {
+        "id": 111,
+        "laravel_id": 744,
+        "track_id": 213,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.46,
+        "bbox": {
+            "x1": 84,
+            "y1": 242,
+            "x2": 310,
+            "y2": 638
+        },
+        "image": "events\\camera_18_person_49_1795094631.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:23:52"
+    },
+    {
+        "id": 112,
+        "laravel_id": 745,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.86,
+        "bbox": {
+            "x1": 328,
+            "y1": 0,
+            "x2": 394,
+            "y2": 76
+        },
+        "image": "events\\camera_18_person_50_1795094633.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:23:53"
+    },
+    {
+        "id": 113,
+        "laravel_id": 746,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.77,
+        "bbox": {
+            "x1": 548,
+            "y1": 0,
+            "x2": 590,
+            "y2": 70
+        },
+        "image": "events\\camera_18_person_51_1795094638.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:23:58"
+    },
+    {
+        "id": 114,
+        "laravel_id": 747,
+        "track_id": 213,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.8,
+        "bbox": {
+            "x1": 12,
+            "y1": 388,
+            "x2": 200,
+            "y2": 710
+        },
+        "image": "events\\camera_18_person_52_1795094638.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:23:58"
+    },
+    {
+        "id": 115,
+        "laravel_id": 748,
+        "track_id": 94,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.9,
+        "bbox": {
+            "x1": 966,
+            "y1": 148,
+            "x2": 1280,
+            "y2": 674
+        },
+        "image": "events\\camera_18_person_53_1795094658.jpg",
+        "status": "active",
+        "time": "2026-11-19 15:24:18"
+    },
+    {
+        "id": 116,
+        "laravel_id": 750,
+        "track_id": 1,
+        "camera_id": 17,
+        "camera": "перевірка детекції рухомих об'єктів.",
+        "object": "person",
+        "confidence": 0.69,
+        "bbox": {
+            "x1": 168,
+            "y1": 134,
+            "x2": 208,
+            "y2": 220
+        },
+        "image": "events\\camera_17_person_1_1795107755.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:02:35"
+    },
+    {
+        "id": 117,
+        "laravel_id": 751,
+        "track_id": 2,
+        "camera_id": 17,
+        "camera": "перевірка детекції рухомих об'єктів.",
+        "object": "truck",
+        "confidence": 0.52,
+        "bbox": {
+            "x1": 1032,
+            "y1": 2,
+            "x2": 1278,
+            "y2": 240
+        },
+        "image": "events\\camera_17_truck_2_1795107755.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:02:35"
+    },
+    {
+        "id": 118,
+        "laravel_id": 752,
+        "track_id": 3,
+        "camera_id": 17,
+        "camera": "перевірка детекції рухомих об'єктів.",
+        "object": "person",
+        "confidence": 0.33,
+        "bbox": {
+            "x1": 144,
+            "y1": 240,
+            "x2": 248,
+            "y2": 374
+        },
+        "image": "events\\camera_17_person_3_1795107756.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:02:36"
+    },
+    {
+        "id": 119,
+        "laravel_id": 753,
+        "track_id": 15,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.79,
+        "bbox": {
+            "x1": 456,
+            "y1": 154,
+            "x2": 630,
+            "y2": 532
+        },
+        "image": "events\\camera_18_person_4_1795107756.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:02:37"
+    },
+    {
+        "id": 120,
+        "laravel_id": 754,
+        "track_id": 34,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.61,
+        "bbox": {
+            "x1": 594,
+            "y1": 0,
+            "x2": 662,
+            "y2": 36
+        },
+        "image": "events\\camera_18_person_5_1795107757.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:02:37"
+    },
+    {
+        "id": 121,
+        "laravel_id": 755,
+        "track_id": 10,
+        "camera_id": 17,
+        "camera": "перевірка детекції рухомих об'єктів.",
+        "object": "person",
+        "confidence": 0.78,
+        "bbox": {
+            "x1": 410,
+            "y1": 148,
+            "x2": 520,
+            "y2": 360
+        },
+        "image": "events\\camera_17_person_6_1795107758.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:02:38"
+    },
+    {
+        "id": 122,
+        "laravel_id": 756,
+        "track_id": 54,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.76,
+        "bbox": {
+            "x1": 42,
+            "y1": 262,
+            "x2": 136,
+            "y2": 610
+        },
+        "image": "events\\camera_18_person_7_1795107758.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:02:38"
+    },
+    {
+        "id": 123,
+        "laravel_id": 757,
+        "track_id": 74,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.52,
+        "bbox": {
+            "x1": 358,
+            "y1": 82,
+            "x2": 454,
+            "y2": 170
+        },
+        "image": "events\\camera_18_person_8_1795107759.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:02:39"
+    },
+    {
+        "id": 124,
+        "laravel_id": 758,
+        "track_id": 83,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.65,
+        "bbox": {
+            "x1": 1008,
+            "y1": 208,
+            "x2": 1084,
+            "y2": 280
+        },
+        "image": "events\\camera_18_person_9_1795107760.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:02:40"
+    },
+    {
+        "id": 125,
+        "laravel_id": 759,
+        "track_id": 84,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.64,
+        "bbox": {
+            "x1": 1140,
+            "y1": 216,
+            "x2": 1238,
+            "y2": 280
+        },
+        "image": "events\\camera_18_person_10_1795107760.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:02:40"
+    },
+    {
+        "id": 126,
+        "laravel_id": 760,
+        "track_id": 104,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.46,
+        "bbox": {
+            "x1": 1204,
+            "y1": 260,
+            "x2": 1280,
+            "y2": 372
+        },
+        "image": "events\\camera_18_person_11_1795107761.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:02:41"
+    },
+    {
+        "id": 127,
+        "laravel_id": 761,
+        "track_id": 105,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.7,
+        "bbox": {
+            "x1": 1158,
+            "y1": 244,
+            "x2": 1214,
+            "y2": 372
+        },
+        "image": "events\\camera_18_person_12_1795107761.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:02:41"
+    },
+    {
+        "id": 128,
+        "laravel_id": 762,
+        "track_id": 106,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.46,
+        "bbox": {
+            "x1": 1204,
+            "y1": 588,
+            "x2": 1276,
+            "y2": 718
+        },
+        "image": "events\\camera_18_person_13_1795107761.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:02:41"
+    },
+    {
+        "id": 129,
+        "laravel_id": 763,
+        "track_id": 107,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.54,
+        "bbox": {
+            "x1": 518,
+            "y1": 276,
+            "x2": 574,
+            "y2": 340
+        },
+        "image": "events\\camera_18_person_14_1795107761.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:02:41"
+    },
+    {
+        "id": 130,
+        "laravel_id": 764,
+        "track_id": 143,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.66,
+        "bbox": {
+            "x1": 0,
+            "y1": 204,
+            "x2": 56,
+            "y2": 508
+        },
+        "image": "events\\camera_18_person_15_1795107762.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:02:42"
+    },
+    {
+        "id": 131,
+        "laravel_id": 765,
+        "track_id": 172,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.65,
+        "bbox": {
+            "x1": 338,
+            "y1": 422,
+            "x2": 504,
+            "y2": 652
+        },
+        "image": "events\\camera_18_person_16_1795107764.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:02:44"
+    },
+    {
+        "id": 132,
+        "laravel_id": 766,
+        "track_id": null,
+        "camera_id": 20,
+        "camera": "Для тестування підключення RTSP та обробки відео",
+        "object": "person",
+        "confidence": 0.79,
+        "bbox": {
+            "x1": 406,
+            "y1": 70,
+            "x2": 1128,
+            "y2": 708
+        },
+        "image": "events\\camera_20_person_17_1795107764.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:02:44"
+    },
+    {
+        "id": 133,
+        "laravel_id": 767,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.52,
+        "bbox": {
+            "x1": 968,
+            "y1": 378,
+            "x2": 1126,
+            "y2": 624
+        },
+        "image": "events\\camera_18_person_18_1795107765.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:02:45"
+    },
+    {
+        "id": 134,
+        "laravel_id": 768,
+        "track_id": 203,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.81,
+        "bbox": {
+            "x1": 578,
+            "y1": 0,
+            "x2": 604,
+            "y2": 60
+        },
+        "image": "events\\camera_18_person_19_1795107765.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:02:45"
+    },
+    {
+        "id": 135,
+        "laravel_id": 769,
+        "track_id": 204,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.73,
+        "bbox": {
+            "x1": 716,
+            "y1": 286,
+            "x2": 774,
+            "y2": 442
+        },
+        "image": "events\\camera_18_person_20_1795107766.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:02:46"
+    },
+    {
+        "id": 136,
+        "laravel_id": 770,
+        "track_id": 253,
+        "camera_id": 17,
+        "camera": "перевірка детекції рухомих об'єктів.",
+        "object": "person",
+        "confidence": 0.68,
+        "bbox": {
+            "x1": 584,
+            "y1": 134,
+            "x2": 662,
+            "y2": 330
+        },
+        "image": "events\\camera_17_person_21_1795107772.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:02:52"
+    },
+    {
+        "id": 137,
+        "laravel_id": 771,
+        "track_id": 320,
+        "camera_id": 17,
+        "camera": "перевірка детекції рухомих об'єктів.",
+        "object": "truck",
+        "confidence": 0.35,
+        "bbox": {
+            "x1": 1032,
+            "y1": 82,
+            "x2": 1280,
+            "y2": 240
+        },
+        "image": "events\\camera_17_truck_22_1795107779.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:02:59"
+    },
+    {
+        "id": 138,
+        "laravel_id": 772,
+        "track_id": null,
+        "camera_id": 20,
+        "camera": "Для тестування підключення RTSP та обробки відео",
+        "object": "person",
+        "confidence": 0.72,
+        "bbox": {
+            "x1": 12,
+            "y1": 162,
+            "x2": 102,
+            "y2": 256
+        },
+        "image": "events\\camera_20_person_23_1795107780.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:03:00"
+    },
+    {
+        "id": 139,
+        "laravel_id": 773,
+        "track_id": null,
+        "camera_id": 19,
+        "camera": "перевірка обробки відеопотоку та стабільності декодування",
+        "object": "person",
+        "confidence": 0.74,
+        "bbox": {
+            "x1": 122,
+            "y1": 84,
+            "x2": 188,
+            "y2": 246
+        },
+        "image": "events\\camera_19_person_24_1795107784.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:03:04"
+    },
+    {
+        "id": 140,
+        "laravel_id": 774,
+        "track_id": 351,
+        "camera_id": 19,
+        "camera": "перевірка обробки відеопотоку та стабільності декодування",
+        "object": "person",
+        "confidence": 0.85,
+        "bbox": {
+            "x1": 360,
+            "y1": 296,
+            "x2": 424,
+            "y2": 456
+        },
+        "image": "events\\camera_19_person_25_1795107785.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:03:05"
+    },
+    {
+        "id": 141,
+        "laravel_id": 775,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "car",
+        "confidence": 0.4,
+        "bbox": {
+            "x1": 498,
+            "y1": 166,
+            "x2": 542,
+            "y2": 184
+        },
+        "image": "events\\camera_18_car_26_1795107786.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:03:06"
+    },
+    {
+        "id": 142,
+        "laravel_id": 776,
+        "track_id": 358,
+        "camera_id": 19,
+        "camera": "перевірка обробки відеопотоку та стабільності декодування",
+        "object": "person",
+        "confidence": 0.78,
+        "bbox": {
+            "x1": 6,
+            "y1": 148,
+            "x2": 68,
+            "y2": 314
+        },
+        "image": "events\\camera_19_person_27_1795107786.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:03:06"
+    },
+    {
+        "id": 143,
+        "laravel_id": 777,
+        "track_id": 366,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.74,
+        "bbox": {
+            "x1": 948,
+            "y1": 570,
+            "x2": 1072,
+            "y2": 684
+        },
+        "image": "events\\camera_18_person_28_1795107787.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:03:07"
+    },
+    {
+        "id": 144,
+        "laravel_id": 778,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.38,
+        "bbox": {
+            "x1": 564,
+            "y1": 58,
+            "x2": 624,
+            "y2": 180
+        },
+        "image": "events\\camera_18_person_29_1795107794.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:03:14"
+    },
+    {
+        "id": 145,
+        "laravel_id": 779,
+        "track_id": 490,
+        "camera_id": 17,
+        "camera": "перевірка детекції рухомих об'єктів.",
+        "object": "person",
+        "confidence": 0.33,
+        "bbox": {
+            "x1": 144,
+            "y1": 240,
+            "x2": 248,
+            "y2": 374
+        },
+        "image": "events\\camera_17_person_30_1795107797.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:03:17"
+    },
+    {
+        "id": 146,
+        "laravel_id": 780,
+        "track_id": 504,
+        "camera_id": 19,
+        "camera": "перевірка обробки відеопотоку та стабільності декодування",
+        "object": "person",
+        "confidence": 0.78,
+        "bbox": {
+            "x1": 364,
+            "y1": 346,
+            "x2": 426,
+            "y2": 518
+        },
+        "image": "events\\camera_19_person_31_1795107798.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:03:18"
+    },
+    {
+        "id": 147,
+        "laravel_id": 781,
+        "track_id": 535,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.88,
+        "bbox": {
+            "x1": 0,
+            "y1": 40,
+            "x2": 398,
+            "y2": 636
+        },
+        "image": "events\\camera_18_person_32_1795107801.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:03:21"
+    },
+    {
+        "id": 148,
+        "laravel_id": 782,
+        "track_id": 537,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.67,
+        "bbox": {
+            "x1": 1104,
+            "y1": 52,
+            "x2": 1254,
+            "y2": 406
+        },
+        "image": "events\\camera_18_person_33_1795107802.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:03:22"
+    },
+    {
+        "id": 149,
+        "laravel_id": 783,
+        "track_id": 567,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.55,
+        "bbox": {
+            "x1": 740,
+            "y1": 0,
+            "x2": 788,
+            "y2": 44
+        },
+        "image": "events\\camera_18_person_34_1795107803.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:03:23"
+    },
+    {
+        "id": 150,
+        "laravel_id": 784,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.52,
+        "bbox": {
+            "x1": 830,
+            "y1": 0,
+            "x2": 874,
+            "y2": 76
+        },
+        "image": "events\\camera_18_person_35_1795107804.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:03:24"
+    },
+    {
+        "id": 151,
+        "laravel_id": 785,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "car",
+        "confidence": 0.5,
+        "bbox": {
+            "x1": 1170,
+            "y1": 322,
+            "x2": 1272,
+            "y2": 368
+        },
+        "image": "events\\camera_18_car_36_1795107808.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:03:28"
+    },
+    {
+        "id": 152,
+        "laravel_id": 786,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.7,
+        "bbox": {
+            "x1": 320,
+            "y1": 0,
+            "x2": 376,
+            "y2": 34
+        },
+        "image": "events\\camera_18_person_37_1795107812.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:03:32"
+    },
+    {
+        "id": 153,
+        "laravel_id": 787,
+        "track_id": null,
+        "camera_id": 18,
+        "camera": "тестування розпізнавання людей у русі",
+        "object": "person",
+        "confidence": 0.41,
+        "bbox": {
+            "x1": 570,
+            "y1": 0,
+            "x2": 618,
+            "y2": 44
+        },
+        "image": "events\\camera_18_person_38_1795107813.jpg",
+        "status": "active",
+        "time": "2026-11-19 19:03:33"
+    }
+]

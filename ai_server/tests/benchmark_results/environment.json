@@ -1,0 +1,15 @@
+{
+  "timestamp": "2026-11-19T20:34:20.281470+02:00",
+  "python": "3.11.9",
+  "opencv": "5.0.0",
+  "platform": "Windows-10-10.0.26300-SP0",
+  "arguments": {
+    "source": "0",
+    "mode": "track",
+    "seconds": 60,
+    "runs": 3,
+    "device": "cuda:0",
+    "weights": "yolo11n.pt",
+    "output": "benchmark_results"
+  }
+}
